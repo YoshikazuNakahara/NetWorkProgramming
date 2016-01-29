@@ -1,0 +1,11 @@
+Mbyteorder	byteorder.c	/^main(int argc, char **argv)$/
+Mdaytimetcpcli	daytimetcpcli.c	/^main(int argc, char **argv)$/
+Mdaytimetcpcli1	daytimetcpcli1.c	/^main(int argc, char **argv)$/
+Mdaytimetcpcli2	daytimetcpcli2.c	/^main(int argc, char **argv)$/
+Mdaytimetcpcli3	daytimetcpcli3.c	/^main(int argc, char **argv)$/
+Mdaytimetcpcliv6	daytimetcpcliv6.c	/^main(int argc, char **argv)$/
+Mdaytimetcpsrv	daytimetcpsrv.c	/^main(int argc, char **argv)$/
+Mdaytimetcpsrv1	daytimetcpsrv1.c	/^main(int argc, char **argv)$/
+Mdaytimetcpsrv2	daytimetcpsrv2.c	/^main(int argc, char **argv)$/
+Mdaytimetcpsrv3	daytimetcpsrv3.c	/^main(int argc, char **argv)$/
+Mdaytimetcpsrvv6	daytimetcpsrvv6.c	/^main(int argc, char **argv)$/
